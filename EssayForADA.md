@@ -9,12 +9,14 @@
   myself every day and never be bored.
   
   I learnt C++ and Java online using Khan Academy’s free online classes and not only enjoyed it but learnt it very quickly and was able to succeed. Also I took a few classes at college. After all these explosion I found out that it’s something which I would be happy to do all my life.  
+  
  **2. What are your professional goals for the next 2 years, the next 5 years?**
 
 My dream company is Google. My goal for the next 2 years is to be a Software engineer at Google and 
 then after gaining enough experience and knowledge become a Senior engineer.
 
 **3. Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?**
+
 In my country we have to choose our major just after finishing the high school.
 We can’t take several classes and then decide what to choose like students here do. 
 So after finishing school I followed my parents advice and chose Economics as my major.
