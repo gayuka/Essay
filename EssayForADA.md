@@ -1,43 +1,22 @@
 # Essay
-**1.	Why are you interested in programming? What have you done to expose yourself to programming so far?**
+**1. Why are you interested in programming? What have you done to expose yourself to programming so far?**
   
-  First of all I want to manage my computer and don’t want to be managed by it. 
-  Second of all programming requires a lot of thinking and creativity it’s not a daily routine work.
-  I love solving problems a lot and Math which is related to programming a lot. Doing the same thing seems very boring 
-  for me and I have found out that in programming every day you have to do something new to write a better code and you
-  have to increase your knowledge every day to be competitive in this fast growing field. I want to learn and develop
-  myself every day and never be bored.
+I am interested in programming, because this field requires development every day. In this field you can never be bored. You always have to learn, read, and explore to be competitive. I get bored very easily and I don’t like doing the same thing every day, that’s why programming is interesting for me. There is no code which is perfect you always have to work and find bugs and improve your code. 
+To make sure that this is something I would love to do I started exploring internet to find free coding classes. I learnt python, a little bit Java and C++. Beginning Programming for Dummies book had a great influence on me. I learnt a lot of basic things about programming and some simple coding which makes me be sure about my decision to learn programing one more time.
+I also took some coding classes in college and it was very enjoyable for me. 
+
   
-  I learnt C++ and Java online using Khan Academy’s free online classes and not only enjoyed it but learnt it very quickly and was able to succeed. Also I took a few classes at college. After all these explosion I found out that it’s something which I would be happy to do all my life.  
-  
- **2. What are your professional goals for the next 2 years, the next 5 years?**
+ **2. If you are accepted into our program, where do you see your career in 5 years?**
 
 My dream company is Google. My goal for the next 2 years is to be a Software engineer at Google and 
 then after gaining enough experience and knowledge become a Senior engineer.
+I want to get a degree in programming that is my dream but that requires finances and experience.  If I am accepted into your program my dream is to find a good job in fast growing companies like Microsoft or Amazon to get enough experience to be ready to go to school and get a degree with the support from my employer. After 5 years I see myself having a Master’s degree in computer science with enough knowledge and experience to be able to be start my own company. And my degree from Economics will definitely help me in the development of my company.
 
-**3. Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?**
+**3. After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?**
 
-In my country we have to choose our major just after finishing the high school.
-We can’t take several classes and then decide what to choose like students here do. 
-So after finishing school I followed my parents advice and chose Economics as my major.
-After 2 quarters I realized that I am not interested in it at all. It isn’t something which I would like to do all my life. 
-But I took that not as a mistake but as a good opportunity to succeed in something which I don’t like.
-It is easy to doing what you like but it isn’t the same when you don’t like it. 
-After all I thought knowledge could never harm and I should finish my education. S
-o the result was my graduation with really high scores and studying on grant all 4 years.
-That develop a good behavior for me to do everything excellently no matter I like it or not. 
-If I encountered the situation again, I would find out more information before starting my education. 
-I would go to the library read some books explain basic economics concepts to have some idea what I am going to do in future
-for my education.
+I think with all my goals, positivity and passion I will be a good member of Ada’s great “family”. After graduating from this program I will be happy to share my knowledge and experience with future Ada members who will follow the path, about which I am dreaming now. As a very perfectionist person I am sure I can be successful with the help of Ada, be a competitive developer in this male dominated field and decrease that gap between male and female successful developers.
 
-**4. Have you taught yourself anything before? Describe what you learned and how you approached it.**
+**4. Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?**
 
-At the age of 14 I received my first Computer as a birthday gift from my father. Besides playing games with computer
-I did nothing in computer before that point. And I learnt Word, Excellent, Power Point and Photoshop without anybody’s help
-and even without internet, because we weren’t able to afford internet at that time in Armenia. 
-Mostly I used help and my English knowledge to learn that at the age of 14. 
-I went to the library found several books about MS office and start reading through it and do the assignment from the book.
-It took me 3 months to feel comfortable using MS office and then I starting learning Photoshop by myself.
-But I never stopped exploring new things about MS office. 
-I was able to learn both MS office and Photoshop and to consolidate my knowledge I started teaching what I learned to 
-my sister.
+The most important thing I have learnt from the past is when to ask for help. I am always full of questions to clarify the issue before starting to solve it. I could learnt all of this only after my failure.
+When I was studying I failed a group project which was very important and as a result failed that class and had to take it again. I didn’t want to admit my weakness in that group project and ask for help. I was too confident that I could do everything alone. The importance of teamwork at that time wasn’t clear for me. But after that failure I learnt the meaning of the team work when all the responsibilities should be discussed and divided. Where everybody should be confident to ask clarification and help. Now in my job at banking I am very successful only because of my failure in the past. I always ask clarifications to my coworkers if I don’t understand the issue that I am going to solve. I am always full of question and I know that nothing is impossible without teamwork and team effort. 
