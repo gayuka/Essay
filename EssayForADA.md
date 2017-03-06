@@ -14,7 +14,7 @@ I want to get a degree in programming that is my dream but that requires finance
 
 **3. After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?**
 
-I think with all my goals, positivity and passion I will be a good member of Ada’s great “family”. After graduating from this program I will be happy to share my knowledge and experience with future Ada members who will follow the path, about which I am dreaming now. As a very perfectionist person I am sure I can be successful with the help of Ada, be a competitive developer in this male dominated field and decrease that gap between male and female successful developers.
+I think with all my goals, positivity and passion I will be a good member of Ada’s great family. After graduating from this program I will be happy to share my knowledge and experience with future Ada members who will follow the path, about which I am dreaming now. As a very perfectionist person I am sure I can be successful with the help of Ada, be a competitive developer in this male dominated field and decrease that gap between male and female successful developers.
 
 **4. Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?**
 
