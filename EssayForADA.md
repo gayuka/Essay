@@ -8,7 +8,7 @@ I also took some coding classes in college and it was very enjoyable for me. But
   
  **2. If you are accepted into our program, where do you see your career in 5 years?**
 
-I want to get a degree in programming. That is my dream but that requires finances and experience.  If I am accepted into your program I will be able to find a good job in fast growing companies like Microsoft or Amazon to get enough experience, and then with the support from my employer fulfill my dream and go to school to get my Master's degree.  After 5 years I see myself having a Master’s degree in computer science with enough knowledge and experience to be able to start my own company. And my degree from Economics will definitely help me in the development of my company.
+My dream is to get a degree in programming. I know this requires finances and experience. That's why with the help from your academy I will have the opportunity to reach my goal. If I am accepted into your program I will be able to find a good job in fast growing companies like Microsoft or Amazon to get enough experience, and then with the support from my employer fulfill my dream and go to school to get my Master's degree.  After 5 years I see myself having a Master’s degree in computer science, with enough knowledge and experience, to be able to start my own company. And my degree from Economics will definitely help me in the development of my company.
 
 **3. After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?**
 
