@@ -1,7 +1,7 @@
 # Essay
 **1. Why are you interested in programming? What have you done to expose yourself to programming so far?**
   
-I am interested in programming, because this field requires development every day. In this field you can never be bored. You always have to learn, read, and explore to be competitive. I get bored very easily and I don’t like doing the same thing every day, that’s why programming is interesting for me. There is no code which is perfect you always have to work and find bugs and improve your code. 
+I am interested in programming, because this field requires development every day. In this field you can never be bored. You always have to learn, read, and explore to be competitive. I have never enjoyed doing the same thing every day, that’s why programming is interesting for me. There is no code which is perfect you always have to work and find bugs and improve your code. 
 To make sure that this is something I would love to do I started exploring internet to find free coding classes. I learnt python, a little bit Java and C++. Beginning Programming for Dummies book had a great influence on me. I learnt a lot of basic things about programming and some simple coding which makes me be sure about my decision to learn programing one more time.
 I also took some coding classes in college and it was very enjoyable for me. 
 
